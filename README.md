@@ -1,6 +1,7 @@
 ## State Handling
 
 In the project, there are three different `mini-apps` which are using event handlers to manipulate states.
+
 **Note: You definitely need to check the last one. Scroll to the bottom of the page!**
 
 ### Coin Flipper
