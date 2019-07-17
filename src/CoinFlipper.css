@@ -1,0 +1,16 @@
+.CoinFlipper {
+	width: 350px;
+	padding: 50px;
+	border-radius: 10px;
+	margin: auto;
+	box-shadow: 0px 3px 8px #888888;
+	background: white;
+}
+
+.CoinFlipper h3 {
+	margin: 0px auto;
+}
+
+.CoinFlipper button {
+	margin-bottom: 30px;
+}
